@@ -30,17 +30,20 @@ p{
 
 }
 .grid{
-	display : flex;
+	display : inline-flex;
 	flex-flow: row wrap;
 	padding:5px;
-	margin: 10px;
+	margin: 0 auto;
+	text-align: center;
+
 
 }
 .grid2{
-	display : flex;
+	display : inline-flex;
 	flex-flow: row wrap;
 	padding:5px;
-	margin: 10px;
+	margin: 0 auto;
+	text-align: center;
 }
 
 .primeiro{
@@ -58,8 +61,7 @@ p{
 }
 
 .col{
-	flex-flow: left;
-	display: inline-flex;
-
+display: flex;
+flex-flow:  wrap;
 }
 
