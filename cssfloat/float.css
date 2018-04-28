@@ -1,0 +1,39 @@
+header{
+  height: 100px;
+  padding: 20px;
+  background-color: #F8B195;
+  
+}
+nav{
+  height: 40px;
+  padding: 10px;
+  background-color: #F67280;
+}
+  span {
+    color: #F2F2F2;
+    font-family: "Arial";
+    font-size: 24px;  
+  }
+  
+aside{
+  padding: 2%;
+  height: 300px;
+  width: 14%;  
+  background-color: #6C5B7B;
+  float: left;
+    
+}
+main{
+  height: 300px;
+  width: 60%;
+  padding: 2%;
+  background-color: #C06C84;
+  margin: 0 auto;  
+  float: left;
+}
+footer{
+  height: 50px;
+  padding: 10px;
+  background-color: #355C7D;
+  clear: both;
+}
